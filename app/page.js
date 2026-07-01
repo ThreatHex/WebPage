@@ -191,7 +191,7 @@ export default function Home() {
       <section className="cta" id="contact">
         <div className="wrap cta-row">
           <h2 className="cta-title">Tell us what you need tested or what's already on fire.</h2>
-          <a href="mailto:contact@threathex.com" className="cta-mail">info@threathex.com</a>
+          <a href="mailto:contact@threathex.com" className="cta-mail">contact@threathex.com</a>
         </div>
       </section>
 
